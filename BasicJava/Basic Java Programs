@@ -1,0 +1,95 @@
+1.WAP to check if a number is even or odd?
+2.WAP to check if a number is prime or not?
+3.WAP to find the factorial of a number?Find the same using recursion?
+4.WAP to find whether the factorial of a number is prime or not?
+5.WAP to find the greatest of 2 number?
+6.WAP to find the greatest and smallest of 3 number?
+7.WAP to find whether the number is Armst  rong number or not?  (149   1^3 + 4^3 + 9^3 should be 149)
+8.WAP to find fibonacci series upto n digit ? if n=5    O/p:  0 1 1 2 3
+9.WAP to swap 2 numbers value?Try the same without using 3rd variable
+10.WAP to add 2 numbers without using + operator
+11.WAP to multiply any number by 2,4,8,16…..2^N  without using * operator
+12.WAP to divide a number by 8 without using / operator
+13.WAP to find the sum of digit  123=    1 +2+3=6
+14.WAP to find whether the number is palindrome or not   141
+15.WAP to convert a number to binary,Hexadecimal and vice versa
+
+16.WAP to print the table of a number? eg  3 means 3*1=3 3*2=6…. upto 10
+17.WAP to add 2 binary numbers    eg  101+101=1010  not 202
+18.WAP to find LCM of 3 numbers
+19.WAP to find HCF of 3 numbers
+
+20.WAP to find the sum of 1+2+3+….N
+21.WAP to find the sum of  1^2 + 2^2 + 3^2 +….. N^2
+22.WAP to  find the sum of  1+2^2+3^3 +4^4+…..N^N
+
+Arrays:-
+101.WAP to find the largest number in an array?
+102WAP to find the smallest number in an array?
+103.WAP to find the largest & smallest number in an array?
+104.WAP to search for a number in an array and also find its index?
+105.WAP to sort an array? Bubble sort,quick sort,heap sort
+106.WAP to find total prime number,even number,odd number,armstrong number present in the array?
+107.WAP to find the highest frequency number in an array?
+108.WAP to find the sum of all the elements in  an array?
+109.WAP to swap every alternate index value in an array?  5 7 3 1 7 should bcome 7 5 1 3 7
+110.WAP to reverse the array?Donot print the array in reverse Order.Donot use 2nd array
+111.WAP to arrange the array with all even number first,then odd number in Ascending order
+        Ex 5 1 6 3 2  should become 2 6 1 3 5 
+112.WAP to copy 2 arrays into 3rd array?
+113.WAP to add 2 arrays index by index into 2nd array   Ex A={ 1 4 2 5 3 },B={5 4 7 2 }then 
+           C= {6 8  9 7 3}
+114.WAP to find union of 2 Array?
+115.WAP to find intersection of 2 Array?
+116.WAP to find which element are present in first array but not in 2nd array
+
+String:-
+201.WAP to reverse the string
+202.WAP to calculate the length of the String
+203.WAP to find if the string in palindrome or not
+204.WAP to print String in reverse word order   He is good   ==>  good is He
+205.WAP to find two Strings are equal or not?
+206.WAP to find the total spaces in string
+207.WAP to replace all the “is” with “was” in a String
+208.WAP to sort the String wrt to weight of the word    He is a gentle man     a  He is man gentle
+209.WAP to find the frequency of each character in a String.
+         He Is Good Boy H=1 e=1 ‘ ‘=3 I=1 …..
+210.You are given 2 string.WAP to find out whether they are jumbly equal or not? Means  Eat==tEa
+       Case doesnot matter,and order also doesnot matter.
+211.WAP to find whether the String purely consists of alphabetic character or is alpha numeric   
+212.WAP to find the frequency of all the vowels in a String
+213.You are given a String.WAP to change all lowecase letter to uppercase and vice-versa
+214.WAP to remove all the numbers from alphanumeric String
+
+Pattern:-
+1
+12
+123
+1234
+
+1
+111
+11111
+
+1
+23
+456
+789 10
+
+*
+**
+***
+****
+*****
+
+     *
+    **
+   ***
+  ****
+ *****
+
+1 2 3 4 5
+     2 3 4 5
+          3 4 5
+               4 5
+                   5
